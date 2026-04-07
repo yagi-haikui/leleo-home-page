@@ -1,14 +1,14 @@
 const config = {
 	//网页元数据
 	metaData: {
-		title: 'Leleo的个人主页🎉',
-		description: '欢迎来到Leleo的奇妙世界！',
-		keywords: 'Leleo,leleo,个人主页,个人网站',
+		title: 'Yagi的个人主页🎉',
+		description: '欢迎来到Yagi的奇妙世界！',
+		keywords: 'Yagi,Enweniar,个人主页,个人网站',
 		icon: '/favicon.ico'   //网页图标，支持外链
 	},
 
-	avatar: "/img/avatar.jpg", // 头像
-	welcometitle: "Hi, I'm Leleo", // 标题
+	avatar: "C:\Users\buried\Desktop\屏幕截图 2026-04-07 113408.png", // 头像
+	welcometitle: "Hello,World", // 标题
 
 	// 颜色配置
 	color: {
@@ -29,9 +29,9 @@ const config = {
 		"pc": {   //pc端
 			"type": "pic",   //"pic":静态壁纸;"video":动态壁纸
 			"datainfo": {
-				"title": "海洋女孩",
-				"preview": "/img/wallpaper/static/海洋女孩/image-pre.webp",
-				"url": "/img/wallpaper/static/海洋女孩/image.png",     //当然，也可填写网络地址或壁纸api，如随机PC壁纸api："url":"https://t.mwm.moe/pc"
+				"title": "世界很温柔《龙族》上杉绘梨衣",
+				"preview": "https://www.leleo.top/img/wallpaper/dynamic/%E4%B8%96%E7%95%8C%E5%BE%88%E6%B8%A9%E6%9F%94%E3%80%8A%E9%BE%99%E6%97%8F%E3%80%8B%E4%B8%8A%E6%9D%89%E7%BB%98%E6%A2%A8%E8%A1%A3/A2EF5E85-pre.webm",				
+"url": "https://www.leleo.top/img/wallpaper/dynamic/%E4%B8%96%E7%95%8C%E5%BE%88%E6%B8%A9%E6%9F%94%E3%80%8A%E9%BE%99%E6%97%8F%E3%80%8B%E4%B8%8A%E6%9D%89%E7%BB%98%E6%A2%A8%E8%A1%A3/A2EF5E85.webm"     //当然，也可填写网络地址或壁纸api，如随机PC壁纸api："url":"https://t.mwm.moe/pc"
 			},
 		},
 		"mobile": {   //移动端
@@ -57,13 +57,13 @@ const config = {
 		{ icon: "mdi-email", link: "mailto:leleo886@foxmail.com" },
 		{ icon: "mdi-qqchat", link: "https://im.qq.com/" },
 		{ icon: "mdi-wechat", link: "https://wx.qq.com/" },
-		{ icon: "mdi-youtube", link: "https://www.youtube.com" },
-		{ icon: "mdi-facebook", link: "https://www.facebook.com" }
+		{ icon: "mdi-Kaggle", link: "https://www.youtube.com" },
+		{ icon: "mdi-leetcode", link: "https://www.facebook.com" }
 	],
 
 	//打字机
 	typeWriterStrings: [
-		"如果你看到了这行字，说明我已经成功吸引到了你的注意力。",
+		"那颗星梦见的春日。",
 		"顶峰的少年，给了你所有细节，你却说我不是迪迦，给不了你想要的光。",
 		"心简单，世界就简单，幸福才会生长；心自由，生活就自由，到哪都有快乐。",
 		"生命太短，没有时间留给遗憾，若不是终点，请微笑一直向前。"
