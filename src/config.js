@@ -7,7 +7,7 @@ const config = {
 		icon: '/favicon.ico'   //网页图标，支持外链
 	},
 
-	avatar: "C:\Users\buried\Desktop\屏幕截图 2026-04-07 113408.png", // 头像
+	avatar: "img/leleo-home-page/pic1.png", // 头像
 	welcometitle: "Hello,World", // 标题
 
 	// 颜色配置
